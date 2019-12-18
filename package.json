@@ -1,0 +1,19 @@
+{
+  "name": "tutu",
+  "version": "1.0.0",
+  "description": "shitty code to analyze in sonarcloud",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jweibel-sonarsource-default/tutu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jweibel-sonarsource-default/tutu/issues"
+  },
+  "homepage": "https://github.com/jweibel-sonarsource-default/tutu#readme"
+}

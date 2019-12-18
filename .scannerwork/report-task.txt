@@ -1,0 +1,7 @@
+organization=jweibel-sonarsource-default
+projectKey=tutu
+serverUrl=https://jweibel.eu.ngrok.io
+serverVersion=8.0-SNAPSHOT
+dashboardUrl=https://jweibel.eu.ngrok.io/dashboard?id=tutu
+ceTaskId=AW8YJ82CXGTnnIX6nxYJ
+ceTaskUrl=https://jweibel.eu.ngrok.io/api/ce/task?id=AW8YJ82CXGTnnIX6nxYJ

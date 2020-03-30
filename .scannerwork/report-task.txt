@@ -1,7 +1,7 @@
 organization=jweibel-sonarsource-default
 projectKey=jweibel-sonarsource-default_tutu
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.4039
-dashboardUrl=https://sonarcloud.io/dashboard?id=jweibel-sonarsource-default_tutu
-ceTaskId=AW-jskAMBdC0hK-2cV4i
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-jskAMBdC0hK-2cV4i
+serverUrl=https://jweibel.eu.ngrok.io
+serverVersion=8.0-SNAPSHOT
+dashboardUrl=https://jweibel.eu.ngrok.io/dashboard?id=jweibel-sonarsource-default_tutu
+ceTaskId=AXCGYjVxbhBY6KN_iYdh
+ceTaskUrl=https://jweibel.eu.ngrok.io/api/ce/task?id=AXCGYjVxbhBY6KN_iYdh
